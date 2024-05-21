@@ -2,6 +2,8 @@
 
 > This is a GitHub Action that use airbnb style guide to lint JavaScript and TypeScript projects in a pull request with inline error and warning annotations, By default it uses the airbnb and eslint recommended rules if your project doesn't have `.eslintrc` file.
 
+![Lint](https://github.com/AbdulRehman-1/eslint-action/workflows/Lint/badge.svg)
+
 ![Annotation](assets/annotation.png)
 
 ## Usage
